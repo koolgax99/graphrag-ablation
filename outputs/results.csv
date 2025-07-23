@@ -1,0 +1,5 @@
+question_id,question,temperature,model,mode,response
+1,What is the capital of France?,0.1,llama4_scout,graph_vector_fulltext,I couldn't find any relevant documents to answer your question.
+2,Explain quantum computing in simple terms.,0.1,llama4_scout,graph_vector_fulltext,I don’t have that information right now. The context provided does not contain information about quantum computing. Is there something else I can help with?
+1,What is the capital of France?,0.1,llama4_scout,graph_vector_fulltext,I couldn't find any relevant documents to answer your question.
+2,Explain quantum computing in simple terms.,0.1,llama4_scout,graph_vector_fulltext,I don’t have that information right now. The context provided does not contain information about quantum computing. Is there something else I can help with?
