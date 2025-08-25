@@ -33,7 +33,6 @@ def get_session_id(question, config, session_type):
         f"{config['model']}-"
         f"{temperature_str}-"
         f"{config['mode']}-"
-        f"{config['top_k']}-"
     )
 
     if session_type == "unique":
